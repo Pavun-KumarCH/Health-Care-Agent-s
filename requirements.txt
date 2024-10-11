@@ -1,0 +1,9 @@
+crewai
+crewai_tools
+streamlit
+python-dotenv
+langchain_openai
+langchain_community
+python-docx
+ipykernel
+
